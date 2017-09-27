@@ -10,3 +10,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/vim-syntastic/syntastic
+[submodule "bundle/vim-test"]
+	path = bundle/vim-test
+	url = https://github.com/janko-m/vim-test
